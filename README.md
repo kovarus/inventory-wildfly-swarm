@@ -24,7 +24,7 @@ validate it is running using curl (or a web browser)
  
 `{"itemId":"329299","quantity":35}`
 
-terminate serice `ctrl-c`
+terminate service `ctrl-c`
 
 ## Build and deploy inventory service on OpenShift. 
 
