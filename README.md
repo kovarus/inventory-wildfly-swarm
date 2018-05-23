@@ -77,7 +77,7 @@ Validate the inventory service is running using curl (or a web browser)
  
 `{"itemId":"329299","quantity":35}`
 
-Original source:
+For more information:
 [http://guides-cdk-roadshow.b9ad.pro-us-east-1.openshiftapps.com/index.html#/workshop/roadshow/module/wildfly-swarm](http://guides-cdk-roadshow.b9ad.pro-us-east-1.openshiftapps.com/index.html#/workshop/roadshow/module/wildfly-swarm)
 
 
